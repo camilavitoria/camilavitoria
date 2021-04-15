@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @camilavitoria
 - 👀 I’m interested in  aprender linguagens de programação 
 - 🌱 I’m currently learning  javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking  aprimorar meus conhecimentos na área para uso pessoal e profissional 
 - 📫 How to reach me ...
 
 
